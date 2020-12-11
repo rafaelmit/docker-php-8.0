@@ -16,6 +16,7 @@ RUN apt-get install -y \
     git \
     wget \
     vim \
+    cron \
     unzip \
     zip \
     libssl-dev \
